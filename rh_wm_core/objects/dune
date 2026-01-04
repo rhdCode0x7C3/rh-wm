@@ -1,4 +1,4 @@
 (library
  (name objects)
  (modules window)
- (libraries core rh_wm protocols))
+ (libraries core))
