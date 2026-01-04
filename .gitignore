@@ -20,6 +20,10 @@ setup.data
 setup.log
 _opam
 
+# opam generated files
+*.opam
+
 # direnv
 .envrc
 .env
+.direnv/
