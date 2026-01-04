@@ -1,0 +1,3 @@
+(library
+ (name rh_wm)
+ (libraries core))

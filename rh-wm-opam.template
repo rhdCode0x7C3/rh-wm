@@ -1,0 +1,4 @@
+pin-depends: [
+  ["wlroots.dev" "git+https://github.com/swaywm/wlroots-ocaml.git"]
+  ["xkbcommon.dev" "git+https://github.com/Armael/ocaml-xkbcommon.git"]
+]

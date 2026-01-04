@@ -1,0 +1,3 @@
+(library
+ (name keys)
+ (libraries core rh_wm protocols))
