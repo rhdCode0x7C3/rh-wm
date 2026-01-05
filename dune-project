@@ -19,6 +19,7 @@
            (cmdliner (>= 2.0.0))
            (eio (>= 1.3))
            (eio_main (>= 1.3))
+           (logs (>= 0.10.0))
            ;; Wayland
            (wayland (>= 2.2))
            ;; Dev setup

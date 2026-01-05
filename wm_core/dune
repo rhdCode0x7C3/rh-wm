@@ -2,4 +2,4 @@
  (preprocess
   (pps ppx_let))
  (name wm_core)
- (libraries core core_unix core_unix.sys_unix))
+ (libraries core core_unix core_unix.sys_unix logs logs.fmt))
