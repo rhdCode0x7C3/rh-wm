@@ -15,7 +15,10 @@
   (depends (ocaml (>= 5.2.0))
            (core (>= 0.17.1))
            (core_unix (>= 0.17.1))
+           (ppx_let(>= 0.17.1))
            (cmdliner (>= 2.0.0))
+           (eio (>= 1.3))
+           (eio_main (>= 1.3))
            ;; Wayland
            (wayland (>= 2.2))
            ;; Dev setup

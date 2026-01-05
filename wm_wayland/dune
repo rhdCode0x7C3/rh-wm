@@ -1,0 +1,7 @@
+(library
+ (name wm_wayland)
+ (preprocess
+  (pps ppx_let))
+ (enabled_if
+  (= %{system} "linux"))
+ (libraries core core_unix.sys_unix wayland protocols wm_core))

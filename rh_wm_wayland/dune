@@ -1,6 +1,0 @@
-(library
-  (name rh_wm_wayland)
-  (enabled_if (= %{system} "linux"))
-  (libraries core
-                wayland
-                protocols))

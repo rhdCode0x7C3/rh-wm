@@ -1,0 +1,5 @@
+(library
+ (preprocess
+  (pps ppx_let))
+ (name wm_core)
+ (libraries core core_unix core_unix.sys_unix))

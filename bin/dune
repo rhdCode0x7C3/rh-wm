@@ -1,4 +1,4 @@
 (executable
  (public_name rh-wm)
  (name main)
- (libraries rh_wm_core))
+ (libraries wm_core wm_wayland eio eio_main))
