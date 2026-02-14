@@ -29,6 +29,8 @@
             core = "*";
             core_kernel = "*";
             core_unix = "*";
+            eio = "*";
+            eio_main = "*";
             utop = "*";
             wayland = "*";
             cmdliner = "*";
